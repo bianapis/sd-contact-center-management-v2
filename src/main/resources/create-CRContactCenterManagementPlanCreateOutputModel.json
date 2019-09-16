@@ -1,0 +1,15 @@
+{
+  "contactCenterManagementPlanInstanceStatus" : "contactCenterManagementPlanInstanceStatus",
+  "contactCenterManagementPlanInstanceRecord" : {
+    "contactCenterManagementPlanPeriod" : "contactCenterManagementPlanPeriod",
+    "contactCenterResourcePlan" : "contactCenterResourcePlan",
+    "contactCenterUsagePoliciesAndGuidelines" : "contactCenterUsagePoliciesAndGuidelines",
+    "contactCenterServiceOperatingConfiguration" : "contactCenterServiceOperatingConfiguration",
+    "contactCenterServiceSchedule" : "contactCenterServiceSchedule",
+    "contactCenterTrainingPlan" : "contactCenterTrainingPlan",
+    "contactCenterServicePerformanceGoals" : "contactCenterServicePerformanceGoals"
+  },
+  "contactCenterManagementPlanCreateActionReference" : "CCMPCAR748037",
+  "contactCenterManagementPlanInstanceReference" : "CCMPIR785125",
+  "contactCenterManagementPlanCreateActionRecord" : {}
+}

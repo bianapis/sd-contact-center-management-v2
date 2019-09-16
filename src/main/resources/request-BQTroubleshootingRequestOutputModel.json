@@ -1,0 +1,10 @@
+{
+  "troubleshootingRequestRecordReference" : "TRRR737931",
+  "troubleshootingInstanceRecord" : {
+    "contactCenterProductionIssueRecord" : {},
+    "contactCenterIssueAnalysisAndRecommendedResponse" : "contactCenterIssueAnalysisAndRecommendedResponse"
+  },
+  "troubleshootingRequestActionTaskRecord" : {},
+  "troubleshootingRequestActionTaskReference" : "TRATR722083",
+  "requestResponseRecord" : {}
+}

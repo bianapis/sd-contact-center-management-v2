@@ -1,0 +1,15 @@
+{
+  "performanceInstanceRecord" : {
+    "contactCenterPositionUtilization" : "contactCenterPositionUtilization",
+    "contactCenterServiceStatistics" : {
+      "contactCenterServiceStatisticInterpretation" : "contactCenterServiceStatisticInterpretation",
+      "contactCenterServiceStatisticRecommendation" : "contactCenterServiceStatisticRecommendation",
+      "contactCenterServiceStatisticValue" : "contactCenterServiceStatisticValue",
+      "contactCenterServiceStatisticType" : "contactCenterServiceStatisticType"
+    },
+    "contactCenterLoadingProjections" : "contactCenterLoadingProjections"
+  },
+  "updateResponseRecord" : {},
+  "performanceUpdateActionTaskReference" : "CCMPUATR791247",
+  "performanceUpdateActionTaskRecord" : {}
+}

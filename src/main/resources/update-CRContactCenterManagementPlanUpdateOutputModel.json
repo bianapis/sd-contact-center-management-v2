@@ -1,0 +1,14 @@
+{
+  "contactCenterManagementPlanInstanceRecord" : {
+    "contactCenterManagementPlanPeriod" : "contactCenterManagementPlanPeriod",
+    "contactCenterResourcePlan" : "contactCenterResourcePlan",
+    "contactCenterUsagePoliciesAndGuidelines" : "contactCenterUsagePoliciesAndGuidelines",
+    "contactCenterServiceOperatingConfiguration" : "contactCenterServiceOperatingConfiguration",
+    "contactCenterServiceSchedule" : "contactCenterServiceSchedule",
+    "contactCenterTrainingPlan" : "contactCenterTrainingPlan",
+    "contactCenterServicePerformanceGoals" : "contactCenterServicePerformanceGoals"
+  },
+  "contactCenterManagementPlanUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "contactCenterManagementPlanUpdateActionTaskReference" : "CCMPUATR738428"
+}

@@ -1,0 +1,15 @@
+{
+  "requestRecordReference" : "RRR795488",
+  "contactCenterManagementPlanInstanceRecord" : {
+    "contactCenterManagementPlanPeriod" : "contactCenterManagementPlanPeriod",
+    "contactCenterResourcePlan" : "contactCenterResourcePlan",
+    "contactCenterUsagePoliciesAndGuidelines" : "contactCenterUsagePoliciesAndGuidelines",
+    "contactCenterServiceOperatingConfiguration" : "contactCenterServiceOperatingConfiguration",
+    "contactCenterServiceSchedule" : "contactCenterServiceSchedule",
+    "contactCenterTrainingPlan" : "contactCenterTrainingPlan",
+    "contactCenterServicePerformanceGoals" : "contactCenterServicePerformanceGoals"
+  },
+  "requestResponseRecord" : {},
+  "contactCenterManagementPlanRequestActionTaskReference" : "CCMPRATR769855",
+  "contactCenterManagementPlanRequestActionTaskRecord" : {}
+}

@@ -1,0 +1,24 @@
+{
+  "contactCenterManagementPlanInstanceRecord" : {
+    "contactCenterManagementPlanPeriod" : "contactCenterManagementPlanPeriod",
+    "contactCenterResourcePlan" : "contactCenterResourcePlan",
+    "contactCenterUsagePoliciesAndGuidelines" : "contactCenterUsagePoliciesAndGuidelines",
+    "contactCenterServiceOperatingConfiguration" : "contactCenterServiceOperatingConfiguration",
+    "contactCenterServiceSchedule" : "contactCenterServiceSchedule",
+    "contactCenterTrainingPlan" : "contactCenterTrainingPlan",
+    "contactCenterServicePerformanceGoals" : "contactCenterServicePerformanceGoals"
+  },
+  "contactCenterManagementPlanInstanceReportRecord" : {
+    "contactCenterManagementPlanInstanceReport" : {},
+    "contactCenterManagementPlanInstanceReportType" : "contactCenterManagementPlanInstanceReportType",
+    "contactCenterManagementPlanInstanceReportData" : "contactCenterManagementPlanInstanceReportData"
+  },
+  "contactCenterManagementPlanInstanceAnalysis" : {
+    "contactCenterManagementPlanInstanceAnalysisData" : "contactCenterManagementPlanInstanceAnalysisData",
+    "contactCenterManagementPlanInstanceAnalysisReport" : {},
+    "contactCenterManagementPlanInstanceAnalysisReportType" : "contactCenterManagementPlanInstanceAnalysisReportType"
+  },
+  "contactCenterManagementPlanRetrieveActionResponse" : "contactCenterManagementPlanRetrieveActionResponse",
+  "contactCenterManagementPlanRetrieveActionTaskRecord" : {},
+  "contactCenterManagementPlanRetrieveActionTaskReference" : "CCMPRATR784053"
+}

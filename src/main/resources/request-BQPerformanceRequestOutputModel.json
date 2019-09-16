@@ -1,0 +1,16 @@
+{
+  "performanceInstanceRecord" : {
+    "contactCenterPositionUtilization" : "contactCenterPositionUtilization",
+    "contactCenterServiceStatistics" : {
+      "contactCenterServiceStatisticInterpretation" : "contactCenterServiceStatisticInterpretation",
+      "contactCenterServiceStatisticRecommendation" : "contactCenterServiceStatisticRecommendation",
+      "contactCenterServiceStatisticValue" : "contactCenterServiceStatisticValue",
+      "contactCenterServiceStatisticType" : "contactCenterServiceStatisticType"
+    },
+    "contactCenterLoadingProjections" : "contactCenterLoadingProjections"
+  },
+  "performanceRequestActionTaskReference" : "CCMPRATR771792",
+  "performanceRequestActionTaskRecord" : {},
+  "performanceRequestRecordReference" : "PRRR776479",
+  "requestResponseRecord" : {}
+}

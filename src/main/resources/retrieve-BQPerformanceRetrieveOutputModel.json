@@ -1,0 +1,27 @@
+{
+  "performanceRetrieveActionTaskReference" : "CCMPRATR781538",
+  "performanceInstanceReport" : {
+    "performanceInstanceReport" : {},
+    "performanceInstanceReportRecord" : {},
+    "performanceInstanceReportParameters" : "performanceInstanceReportParameters",
+    "performanceInstanceReportType" : "performanceInstanceReportType"
+  },
+  "performanceInstanceRecord" : {
+    "contactCenterPositionUtilization" : "contactCenterPositionUtilization",
+    "contactCenterServiceStatistics" : {
+      "contactCenterServiceStatisticInterpretation" : "contactCenterServiceStatisticInterpretation",
+      "contactCenterServiceStatisticRecommendation" : "contactCenterServiceStatisticRecommendation",
+      "contactCenterServiceStatisticValue" : "contactCenterServiceStatisticValue",
+      "contactCenterServiceStatisticType" : "contactCenterServiceStatisticType"
+    },
+    "contactCenterLoadingProjections" : "contactCenterLoadingProjections"
+  },
+  "performanceInstanceAnalysis" : {
+    "performanceInstanceAnalysisRecord" : {},
+    "performanceInstanceAnalysisParameters" : "performanceInstanceAnalysisParameters",
+    "performanceInstanceAnalysisReportType" : "performanceInstanceAnalysisReportType",
+    "performanceInstanceAnalysisReport" : {}
+  },
+  "performanceRetrieveActionResponse" : "performanceRetrieveActionResponse",
+  "performanceRetrieveActionTaskRecord" : {}
+}

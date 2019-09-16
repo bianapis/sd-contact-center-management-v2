@@ -1,0 +1,19 @@
+{
+  "troubleshootingInstanceRecord" : {
+    "contactCenterProductionIssueRecord" : {},
+    "contactCenterIssueAnalysisAndRecommendedResponse" : "contactCenterIssueAnalysisAndRecommendedResponse"
+  },
+  "contactCenterManagementPlanInstanceRecord" : {
+    "contactCenterManagementPlanPeriod" : "contactCenterManagementPlanPeriod",
+    "contactCenterResourcePlan" : "contactCenterResourcePlan",
+    "contactCenterUsagePoliciesAndGuidelines" : "contactCenterUsagePoliciesAndGuidelines",
+    "contactCenterServiceOperatingConfiguration" : "contactCenterServiceOperatingConfiguration",
+    "contactCenterServiceSchedule" : "contactCenterServiceSchedule",
+    "contactCenterTrainingPlan" : "contactCenterTrainingPlan",
+    "contactCenterServicePerformanceGoals" : "contactCenterServicePerformanceGoals"
+  },
+  "troubleshootingInstanceReference" : "TIR776460",
+  "troubleshootingInstanceStatus" : "troubleshootingInstanceStatus",
+  "troubleshootingInitiateActionRecord" : {},
+  "troubleshootingInitiateActionReference" : "TIAR708343"
+}
